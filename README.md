@@ -74,7 +74,6 @@ Aplikacja graficzna w WinAPI z użyciem GDI+, generująca animowane figury (kwad
 - Gdy dotrą do obszaru sitka (prostokąt w centrum sceny), niektóre zostają usunięte – zależnie od trybu.
 - Graficzne tło z tunelami oraz napisem `sitko`.
 ![image](https://github.com/user-attachments/assets/1fee21e4-4faf-4db1-8e2a-e3283fe64f7c)
-![image](https://github.com/user-attachments/assets/1fee21e4-4faf-4db1-8e2a-e3283fe64f7c)
 
 ---
 
